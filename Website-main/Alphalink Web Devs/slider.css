@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: white;
+    
   }
   h1{
     text-align: center;
@@ -65,7 +65,7 @@ body {
   .navigation-manual {
     position: absolute;
     width: 600px;
-    margin-top: -215px;
+    margin-top: -135px;
     display: flex;
     justify-content: center;
   }
@@ -143,9 +143,179 @@ body {
   button a{
       color: white; font-weight:  bold; font-size: 15px;
   }
-  .box-img{
-    width: 0px;
-    margin-left: 1px;
-    float: left;
-    border-radius: 400px;
-  }
+  body{
+   background-image: url(image/coding.jpg);
+}
+.box{
+  width: 450px;
+  height: 460px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: black;
+  font-family: 'Century Gothic', sans-serif;
+}
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 100px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box p{
+  text-align: justify;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.box1{
+  width: 450px;
+  height: 460px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Century Gothic', sans-serif;
+}
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 25px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box p{
+  text-align: justify;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.box2{
+  width: 450px;
+  height: 460px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Century Gothic', sans-serif;
+}
+.box-img2{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 25px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box p{
+  text-align: justify;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.box3{
+  width: 450px;
+  height: 460px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Century Gothic', sans-serif;
+}
+.box-img3{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 25px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box p{
+  text-align: justify;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
